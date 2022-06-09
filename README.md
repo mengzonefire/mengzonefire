@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 ![GitHub Stat](https://github-readme-stats.vercel.app/api?username=mengzonefire&count_private=true&show_icons=true&theme=react&hide_border=true&hide_title=false&hide_rank=false&include_all_commits=false&disable_animations=true)
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mengzonefire&count_private=true&langs_count=10&layout=compact&theme=react&hide_border=true&exclude_repo=Iosevnya,Saranya,MmaActMan,ProxifierKeygen)
 
+### 𝔾𝕒𝕞𝕖 🎮
+
+
+[![原神个人资料](https://genshin-card.getloli.com/rand/81656881.png)](https://genshin-card.getloli.com/)
