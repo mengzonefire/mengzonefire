@@ -18,8 +18,11 @@ Here are some ideas to get you started:
  -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![GitHub Stat](https://github-readme-stats.vercel.app/api?username=mengzonefire&count_private=true&show_icons=true&theme=react&hide_border=true&hide_title=false&hide_rank=false&include_all_commits=false&disable_animations=true)
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mengzonefire&count_private=true&langs_count=10&layout=compact&theme=react&hide_border=true&exclude_repo=Iosevnya,Saranya,MmaActMan,ProxifierKeygen)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mengzonefire&hide_border=true#gh-light-mode-only)](https://github.com/mengzonefire#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengzonefire&hide_border=true#gh-light-mode-only)](https://github.com/mengzonefire#gh-light-mode-only)
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mengzonefire&hide_border=true&theme=github_dark&show_icons=true#gh-dark-mode-only)](https://github.com/XTsat#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengzonefire&hide_border=true&theme=github_dark#gh-dark-mode-only)](https://github.com/mengzonefire#gh-dark-mode-only)
 
 ### 𝔾𝕒𝕞𝕖 🎮
 
