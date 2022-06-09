@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mengzonefire&hide_border=true&theme=github_dark&show_icons=true#gh-dark-mode-only)](https://github.com/XTsat#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengzonefire&hide_border=true&theme=github_dark&layout=compact#gh-dark-mode-only)](https://github.com/mengzonefire#gh-dark-mode-only)
 
-### 𝔾𝕒𝕞𝕖 🎮
-
+### 𝔊𝔞𝔪𝔢 🎮
 
 [![原神个人资料](https://genshin-card.getloli.com/rand/81656881.png)](https://genshin-card.getloli.com/)
