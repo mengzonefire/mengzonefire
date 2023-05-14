@@ -25,5 +25,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengzonefire&hide_border=true&theme=github_dark&layout=compact#gh-dark-mode-only)](https://github.com/mengzonefire#gh-dark-mode-only)
 
 ### 𝔊𝔞𝔪𝔢 🎮
-
-[![原神个人资料](https://genshin-card.getloli.com/rand/81656881.png)](https://genshin-card.getloli.com/)
